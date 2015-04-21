@@ -5,7 +5,10 @@ angular.module('myApp', [
   'ngRoute',
   'myApp.view1',
   'myApp.view2',
-  'myApp.map_viewers',
+  'myApp.mapViewers',
+  'myApp.map_services',
+  'myApp.wms_services',
+
   'myApp.version'
 ]).
 config(['$routeProvider', function($routeProvider) {

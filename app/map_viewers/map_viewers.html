@@ -1,5 +1,6 @@
 <p>This is the partial for map viewers.</p>
-<p>
-  Showing of 'interpolate' filter:
-  {{ 'Current version is v%VERSION%.' | interpolate }}
-</p>
+<ul class="viewers">
+  <li ng-repeat="viewer in viewers" class="thumbnail">
+    <a href="{{viewer.href}}" class="thumb">{{viewer.label}}</a>
+  </li>
+</ul>
