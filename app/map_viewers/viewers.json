@@ -1,0 +1,81 @@
+[
+  {
+    "label": "Bathymetry Data Viewer",
+    "href": "//maps.ngdc.noaa.gov/viewers/bathymetry"
+  },
+  {
+    "label": "Satellite Fire Detections",
+    "href": "//maps.ngdc.noaa.gov/viewers/firedetects"
+  },
+  {
+    "label": "US Bathymetric and Fishing Maps",
+    "href": "//maps.ngdc.noaa.gov/viewers/fishmaps"},
+  {
+    "label": "Geophysical Surveys",
+    "href": "//maps.ngdc.noaa.gov/viewers/geophysics/"
+  },
+  {
+    "label": "Geophysical Surveys (arctic view)",
+    "href": "//maps.ngdc.noaa.gov/viewers/geophysics/index_arctic.html"
+  },
+  {
+    "label": "Natural Hazards (Tsunamis, Earthquakes, Volcanoes)",
+    "href": "//maps.ngdc.noaa.gov/viewers/hazards"
+  },
+  {
+    "label": "Thermal Springs in the United States",
+    "href": "//maps.ngdc.noaa.gov/viewers/hot_springs"
+  },
+  {
+    "label": "Marine Geology",
+    "href": "//maps.ngdc.noaa.gov/viewers/marine_geology"
+  },
+  {
+    "label": "Multibeam Bathymetric Data",
+    "href": "//maps.ngdc.noaa.gov/viewers/multibeam"
+  },
+  {
+    "label": "NOS Hydrographic Survey Data",
+    "href": "//maps.ngdc.noaa.gov/viewers/nos_hydro"
+  },
+  {
+    "label": "Index to Marine & Lacustrine Geological Samples",
+    "href": "//maps.ngdc.noaa.gov/viewers/sample_index/"
+  },
+  {
+    "label": "Index to Marine & Lacustrine Geological Samples (arctic view)",
+    "href": "//maps.ngdc.noaa.gov/viewers/sample_index/index_arctic.html"
+  },
+  {
+    "label": "Historical Declination",
+    "href": "//maps.ngdc.noaa.gov/viewers/historical_declination/index.html"
+  },
+  {
+    "label": "Tsunami Travel Times to Coastal Locations",
+    "href": "//maps.ngdc.noaa.gov/viewers/ttt_coastal_locations/index.html"
+  },
+  {
+    "label": "Water Column Sonar Data",
+    "href": "//maps.ngdc.noaa.gov/viewers/water_column_sonar/index.html"
+  },
+  {
+    "label": "DMSP OLS Global Composites (version 4)",
+    "href": "http://maps.ngdc.noaa.gov/viewers/dmsp_gcv4/"
+  },
+  {
+    "label": "DMSP OLS Daily Mosaics (limited resolution)",
+    "href": "http://maps.ngdc.noaa.gov/viewers/dmsp_mosaic/"
+  },
+  {
+    "label": "Global Poverty Estimates",
+    "href": "//maps.ngdc.noaa.gov/viewers/dmsp/poverty.html"
+  },
+  {
+    "label": "Coral Triangle Initiative",
+    "href": "//maps.ngdc.noaa.gov/viewers/dmsp_cti/"
+  },
+  {
+    "label": "VIIRS Data of Thailand",
+    "href": "//maps.ngdc.noaa.gov/viewers/viirs_thailand/index.html"
+  }
+]
